@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">停车助手</string>
+    <string name="upload_park">上传停车场</string>
+    <string name="park_list">附近停车场</string>
+    <string name="ad">我们的广告</string>
+</resources>
